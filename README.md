@@ -29,7 +29,6 @@ I'm <b>Khalil Badharis</b> — also known as <b>Koder</b> — a passionate <b>Da
 ---
 
 <h3 align="center">📈 Featured Projects</h3>
-
 - 🧹 **Corona Data Cleaning & Exploration (MySQL)** — Data preparation, cleaning, and exploration with SQL.  
 - 📊 **Retail Sales Analytics Dashboard (Power BI)** — KPI visualization, regional performance analysis, and dynamic filters.  
 - 🧮 **Excel Project Tracker** — Task management using formulas, conditional formatting, and data validation.  
